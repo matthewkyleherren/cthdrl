@@ -1,0 +1,90 @@
+/*
+    Font Weights:
+        100 - Thin
+        200 - Extra Light (Ultra Light)
+        300 - Light
+        400 - Normal
+        500 - Medium
+        600 - Semi Bold (Demi Bold)
+        700 - Bold
+        800 - Extra Bold (Ultra Bold)
+        900 - Black (Heavy)
+*/
+
+/* === NB Akademie === */
+@font-face {
+    font-family: 'NB Akademie';
+    src: url('NBAkademieStd-Regular.eot');
+    src: url('NBAkademieStd-Regulard41d.eot?#iefix') format('embedded-opentype'),
+        url('NBAkademieStd-Regular.woff2') format('woff2'),
+        url('NBAkademieStd-Regular.woff') format('woff'),
+        url('NBAkademieStd-Regular.ttf') format('truetype');
+    font-style: normal;
+    font-weight: 400;
+}
+@font-face {
+    font-family: 'NB Akademie';
+    src: url('NBAkademieStd-Italic.eot');
+    src: url('NBAkademieStd-Italicd41d.eot?#iefix') format('embedded-opentype'),
+        url('NBAkademieStd-Italic.woff2') format('woff2'),
+        url('NBAkademieStd-Italic.woff') format('woff'),
+        url('NBAkademieStd-Italic.ttf') format('truetype');
+    font-style: italic;
+    font-weight: 400;
+}
+@font-face {
+    font-family: 'NB Akademie';
+    src: url('NBAkademieStd-Bold.eot');
+    src: url('NBAkademieStd-Boldd41d.eot?#iefix') format('embedded-opentype'),
+        url('NBAkademieStd-Bold.woff2') format('woff2'),
+        url('NBAkademieStd-Bold.woff') format('woff'),
+        url('NBAkademieStd-Bold.ttf') format('truetype');
+    font-style: normal;
+    font-weight: 700;
+}
+
+/* Mono */
+@font-face {
+    font-family: 'NB Akademie Mono';
+    src: url('NBAkademieMonoStd-Light.eot');
+    src: url('NBAkademieMonoStd-Lightd41d.eot?#iefix') format('embedded-opentype'),
+        url('NBAkademieMonoStd-Light.woff2') format('woff2'),
+        url('NBAkademieMonoStd-Light.woff') format('woff'),
+        url('NBAkademieMonoStd-Light.ttf') format('truetype');
+    font-style: normal;
+    font-weight: 300;
+}
+
+@font-face {
+    font-family: 'NB Akademie Mono';
+    src: url('NBAkademieMonoStd-LightItalic.eot');
+    src: url('NBAkademieMonoStd-LightItalicd41d.eot?#iefix')
+            format('embedded-opentype'),
+        url('NBAkademieMonoStd-LightItalic.woff2') format('woff2'),
+        url('NBAkademieMonoStd-LightItalic.woff') format('woff'),
+        url('NBAkademieMonoStd-LightItalic.ttf') format('truetype');
+    font-style: italic;
+    font-weight: 300;
+}
+
+@font-face {
+    font-family: 'NB Akademie Mono';
+    src: url('NBAkademieMonoStd-Regular.eot');
+    src: url('NBAkademieMonoStd-Regulard41d.eot?#iefix') format('embedded-opentype'),
+        url('NBAkademieMonoStd-Regular.woff2') format('woff2'),
+        url('NBAkademieMonoStd-Regular.woff') format('woff'),
+        url('NBAkademieMonoStd-Regular.ttf') format('truetype');
+    font-style: normal;
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: 'NB Akademie Mono';
+    src: url('NBAkademieMonoStd-Italic.eot');
+    src: url('NBAkademieMonoStd-Italicd41d.eot?#iefix') format('embedded-opentype'),
+        url('NBAkademieMonoStd-Italic.woff2') format('woff2'),
+        url('NBAkademieMonoStd-Italic.woff') format('woff'),
+        url('NBAkademieMonoStd-Italic.ttf') format('truetype');
+    font-style: italic;
+    font-weight: 400;
+}
